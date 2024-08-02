@@ -82,7 +82,7 @@ The EDA provided insights into the survival patterns of Titanic passengers. Key 
 
 ---------------------------------------------------------------------------------------------------------
 
-#### My citings:
+#### References:
 
 https://www.kaggle.com/code/demidova/titanic-eda-tutorial
 
